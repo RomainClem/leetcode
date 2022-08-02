@@ -14,11 +14,11 @@
 # new_dict = {k:v-2 for k,v in word_builder.items()}
 # print(new_dict)
 # print(len(""))
-max_area =24
-i = 6
-height = [1,8,6,2,5,4,8,3,7]
+# max_area =24
+# i = 6
+# height = [1,8,6,2,5,4,8,3,7]
 
-print(height[:1])
+# print(height[:1])
 # min_distance = [[x, -1 * (-max_area//x)] for x in range(1, height[i]+1) if  -1 * (-max_area//x) <= i]
 # print(min_distance)
 # for j in range(len(min_distance)-1, -1, -1):
@@ -31,3 +31,12 @@ print(height[:1])
 # test = [123]
 # print(-1 *(-9//5))
 # print(test[-1])
+
+set1 = {1,2,3}
+set2 = {3,2,1}
+
+list_of_set = [{1,2,3}, {4,5,6}]
+
+# print(set1 == set2)
+
+print(set2 in list_of_set)
