@@ -32,11 +32,24 @@
 # print(-1 *(-9//5))
 # print(test[-1])
 
-set1 = {1,2,3}
-set2 = {3,2,1}
+# set1 = {1,2,3}
+# set2 = {3,2,1}
 
-list_of_set = [{1,2,3}, {4,5,6}]
+# list_of_set = [{1,2,3}, {4,5,6}]
 
-# print(set1 == set2)
+# # print(set1 == set2)
 
-print(set2 in list_of_set)
+# print(set2 in list_of_set)
+
+# from numpy import safe_eval
+
+
+# a = 1
+# b = 1
+
+# a,b += 1
+# print(a)
+# print(b)
+
+
+print(1 + None)
