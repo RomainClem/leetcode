@@ -52,4 +52,20 @@
 # print(b)
 
 
-print(1 + None)
+# print(1 + None)
+
+# l = [1,2,3,4]
+# print(ord("9") - ord("0"))
+# print(ord("0"))
+# print(type(ord(".")))
+
+# nums = [100,4,200,1,3,2, 100]
+# num_s = set(nums)
+# print(num_s.pop())
+# print(num_s)
+# counter = {v:k for (k,v) in enumerate(nums)}
+
+# print(list(counter.keys()))
+
+s = "0P"
+print(s[0].isnumeric())
