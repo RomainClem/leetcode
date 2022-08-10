@@ -67,5 +67,11 @@
 
 # print(list(counter.keys()))
 
-s = "0P"
-print(s[0].isnumeric())
+# s = "0P"
+# print(s[0].isnumeric())
+
+bucket = temp_bucket = i = 0
+print(bucket)
+bucket += 1
+print(bucket)
+print(i)
