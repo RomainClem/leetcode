@@ -70,8 +70,23 @@
 # s = "0P"
 # print(s[0].isnumeric())
 
-bucket = temp_bucket = i = 0
-print(bucket)
-bucket += 1
-print(bucket)
-print(i)
+# bucket = temp_bucket = i = 0
+# print(bucket)
+# bucket += 1
+# print(bucket)
+# print(i)
+
+# s = "ADOBECODEBANC"
+# set_s = set(s)
+# for c in set_s:
+#     print(s.count(c))
+
+print(ord('('))
+print(ord(')'))
+
+print(ord('{'))
+print(ord('}'))
+
+print(ord('['))
+print(ord(']'))
+
