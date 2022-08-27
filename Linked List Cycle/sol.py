@@ -11,10 +11,10 @@ from typing import Optional
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         
-        while head.next:
-            if head.val == "loop": return False
+        while head:
+            if head.val == "loop": return True
             temp = head.next
             head.val = "loop"
             head = temp
         
-        return True
+        return False
