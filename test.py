@@ -81,12 +81,15 @@
 # for c in set_s:
 #     print(s.count(c))
 
-print(ord('('))
-print(ord(')'))
+# print(ord('('))
+# print(ord(')'))
 
-print(ord('{'))
-print(ord('}'))
+# print(ord('{'))
+# print(ord('}'))
 
-print(ord('['))
-print(ord(']'))
+# print(ord('['))
+# print(ord(']'))
 
+
+# print(2<2 and 4<2)
+print(False or False)
