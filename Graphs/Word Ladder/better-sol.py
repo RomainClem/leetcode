@@ -1,3 +1,7 @@
+from collections import deque
+from string import ascii_lowercase
+
+
 class Solution:
     def ladderLength(self, beginWord: str, endWord: str, wordList: List[str]) -> int:
         queue = deque([beginWord])
@@ -6,7 +10,7 @@ class Solution:
         
         changes = 1
         
-        alph = "abcdefghijklmnopqrstuvwxyz"
+        # alph = "abcdefghijklmnopqrstuvwxyz"
         
         
         if endWord not in wordList:
@@ -20,7 +24,7 @@ class Solution:
 
                 for i in range(len(curr_word)):
                     prefix, suffix = curr_word[:i], curr_word[i+1:]
-                    for al in alph:
+                    for al in ascii_lowercase:
                         w = prefix + al + suffix
                         if w in wordList and w not in visited:
                             queue.append(w)

@@ -19,38 +19,38 @@ l = locked
 [l] ? M - Analyze User Website Visit Pattern (53 times) - https://leetcode.com/problems/analyze-user-website-visit-pattern/ 
 [x] - M - Sum of Subarray Ranges (53 times) - https://leetcode.com/problems/sum-of-subarray-ranges/ 
 [x] - H - Word Ladder (51 times) - https://leetcode.com/problems/word-ladder/ 
-[] - Course Schedule (50 times) - https://leetcode.com/problems/course-schedule/ 
-[] - Roman to Integer (49 times) - https://leetcode.com/problems/roman-to-integer/ 
-[] - Valid Parentheses (48 times) - https://leetcode.com/problems/valid-parentheses/ 
-[] - Count Unique Characters of All Substrings of a Given String (48 times) - https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/ 
-[] - Maximum Subarray (47 times) - https://leetcode.com/problems/maximum-subarray/
-[] - Meeting Rooms II (46 times) - https://leetcode.com/problems/meeting-rooms-ii/ 
-[] - Concatenated Words (46 times) - https://leetcode.com/problems/concatenated-words/ 
-[] - Letter Combinations of a Phone Number (42 times) - https://leetcode.com/problems/letter-combinations-of-a-phone-number/ 
-[] - Median of Two Sorted Arrays (41 times) - https://leetcode.com/problems/median-of-two-sorted-arrays/ 
+[~] - M - Course Schedule (50 times) - https://leetcode.com/problems/course-schedule/ 
+[v] - E - Roman to Integer (49 times) - https://leetcode.com/problems/roman-to-integer/ 
+[v] - E - Valid Parentheses (48 times) - https://leetcode.com/problems/valid-parentheses/ 
+[x] - H - Count Unique Characters of All Substrings of a Given String (48 times) - https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/ 
+[~] - M - Maximum Subarray (47 times) - https://leetcode.com/problems/maximum-subarray/
+[l] - M - Meeting Rooms II (46 times) - https://leetcode.com/problems/meeting-rooms-ii/ 
+[x] - H - Concatenated Words (46 times) - https://leetcode.com/problems/concatenated-words/ 
+[z] - M - Letter Combinations of a Phone Number (42 times) - https://leetcode.com/problems/letter-combinations-of-a-phone-number/ 
+[x] - Median of Two Sorted Arrays (41 times) - https://leetcode.com/problems/median-of-two-sorted-arrays/ 
 [] - Rotting Oranges (41 times) - https://leetcode.com/problems/rotting-oranges/ 
-[] - Sliding Window Maximum (39 times) - https://leetcode.com/problems/sliding-window-maximum/ 
-[] - Minimum Health to Beat Game (39 times) - https://leetcode.com/problems/minimum-health-to-beat-game/ 
+[s] - Sliding Window Maximum (39 times) - https://leetcode.com/problems/sliding-window-maximum/ 
+[s] - Minimum Health to Beat Game (39 times) - https://leetcode.com/problems/minimum-health-to-beat-game/ 
 [] - Merge Intervals (38 times) - https://leetcode.com/problems/merge-intervals/ 
 [] - Course Schedule II (38 times) - https://leetcode.com/problems/course-schedule-ii/ 
-[] - Add Two Numbers (36 times) - https://leetcode.com/problems/add-two-numbers/ 
-[] - Longest Palindromic Substring (35 times) - https://leetcode.com/problems/longest-palindromic-substring/ 
-[] - Integer to Roman (35 times) - https://leetcode.com/problems/integer-to-roman/ 
+[s] - Add Two Numbers (36 times) - https://leetcode.com/problems/add-two-numbers/ 
+[s] - Longest Palindromic Substring (35 times) - https://leetcode.com/problems/longest-palindromic-substring/ 
+[s] - Integer to Roman (35 times) - https://leetcode.com/problems/integer-to-roman/ 
 [] - Word Break (34 times) - https://leetcode.com/problems/word-break/ 
-[] - Top K Frequent Elements (34 times) - https://leetcode.com/problems/top-k-frequent-elements/ 
-[] - 3Sum (33 times) - https://leetcode.com/problems/3sum/ 
+[s] - Top K Frequent Elements (34 times) - https://leetcode.com/problems/top-k-frequent-elements/ 
+[s] - 3Sum (33 times) - https://leetcode.com/problems/3sum/ 
 [] - Copy List with Random Pointer (31 times) - https://leetcode.com/problems/copy-list-with-random-pointer/ 
 [] - Lowest Common Ancestor of a Binary Tree (30 times) - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/ 
 [] - Coin Change (30 times) - https://leetcode.com/problems/coin-change/ 
 [] - Search Suggestions System (30 times) - https://leetcode.com/problems/search-suggestions-system/ 
-[] - Container With Most Water (29 times) - https://leetcode.com/problems/container-with-most-water/ 
+[s] - Container With Most Water (29 times) - https://leetcode.com/problems/container-with-most-water/ 
 [] - Word Search (29 times) - https://leetcode.com/problems/word-search/ 
 [] - Integer to English Words (29 times) - https://leetcode.com/problems/integer-to-english-words/
-[] - Find Median from Data Stream (29 times) - https://leetcode.com/problems/find-median-from-data-stream/ 
+[s] - Find Median from Data Stream (29 times) - https://leetcode.com/problems/find-median-from-data-stream/ 
 [] - House Robber (26 times) - https://leetcode.com/problems/house-robber/ 
-[] - Search in Rotated Sorted Array (25 times) - https://leetcode.com/problems/search-in-rotated-sorted-array/ 
+[s] - Search in Rotated Sorted Array (25 times) - https://leetcode.com/problems/search-in-rotated-sorted-array/ 
 [] - Jump Game (25 times) - https://leetcode.com/problems/jump-game/ 
 [] - Binary Tree Zigzag Level Order Traversal (25 times) - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/ 
-[] - Word Search II (25 times) - https://leetcode.com/problems/word-search-ii/ 
-[] - Serialize and Deserialize Binary Tree (25 times) - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ 
-[] - Generate Parentheses (24 times) - https://leetcode.com/problems/generate-parentheses/
+[s] - Word Search II (25 times) - https://leetcode.com/problems/word-search-ii/ 
+[s] - Serialize and Deserialize Binary Tree (25 times) - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/ 
+[s] - Generate Parentheses (24 times) - https://leetcode.com/problems/generate-parentheses/
