@@ -55,7 +55,7 @@
 # print(1 + None)
 
 # l = [1,2,3,4]
-# print(ord("9") - ord("0"))
+print(ord("999"))
 # print(ord("0"))
 # print(type(ord(".")))
 
@@ -92,4 +92,4 @@
 
 
 # print(2<2 and 4<2)
-print(False or False)
+# print(False or False)

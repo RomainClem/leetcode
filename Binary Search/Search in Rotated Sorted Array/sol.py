@@ -20,7 +20,7 @@ class Solution:
             
             if lorder and rorder and target > nums[r2-1] and target < nums[l]: return -1 
             
-            elif lorder and nums[l] <= target <= nums[r-1]: l, r, l2, r2 =  self.new_bucket(l,r,l2,r2)
+            elif lorder and nums[l] <= target <= nums[r-1]: l, r, l2, r2 =  self.new_(l,r,l2,r2)
             elif rorder and nums[l2] <= target <= nums[r2-1]: l, r, l2, r2 = self.new_bucket(l2,r2, l, r)
 
             elif nums[r-1] >= target <= nums[r2-1]: 
