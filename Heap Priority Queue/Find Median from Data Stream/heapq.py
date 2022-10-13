@@ -11,7 +11,7 @@ class MedianFinder:
             heappush(self.large,-heappushpop(self.small,-num))
         else:
             heappush(self.small,-heappushpop(self.large,num))
-        
+
 
     def findMedian(self) -> float:
         if len(self.small)==len(self.large):

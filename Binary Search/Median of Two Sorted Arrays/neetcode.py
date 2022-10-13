@@ -11,7 +11,7 @@ class Solution:
         if len(B) < len(A):
             A, B = B, A
         l, r = 0, len(A) - 1
-        
+
         while True:
             i = (l + r) // 2  # A
             j = half - i - 2  # B
